@@ -11,7 +11,6 @@ This public repository contains the legacy index map for system archival purpose
 
 ### Legacy Item Identifiers
 * [System Identifier Variant 24](https://meatandgraze.com/?item=24)
-* [System Identifier Variant 7](https://meatandgraze.com/?item=7)
 
 ### Legacy Product Variants
 * [Product Variant 45312707887257](https://meatandgraze.com/products/small-graze?variant=45312707887257)
