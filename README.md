@@ -3,7 +3,7 @@
 This public repository contains the legacy index map for system archival purposes. 
 
 ### Active Index Maps
-* [Old Domain Home] (http://meatandgraze.com/)
+* [Old Domain Home](http://meatandgraze.com/)
 * [Old Domain FAQ](https://meatandgraze.com/pages/faqs)
 * [Old Domain Core Catering](https://meatandgraze.com/pages/catering)
 * [Old Domain Grazing Tables](https://meatandgraze.com/pages/grazing-tables)
